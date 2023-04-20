@@ -1,11 +1,3 @@
-/*************************************************************/
-/*                                                           */
-/*  Starter file for a2                                      */
-/*                                                           */
-/*  Author Name: Lion Yakubov                                */
-/*                                                           */
-/*************************************************************/
-
 #include <string>
 #include <utility>
 #include <functional>
