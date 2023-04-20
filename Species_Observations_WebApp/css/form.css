@@ -1,0 +1,50 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+.required {
+  color: red;
+}
+
+#observation-guess {
+  width: 170px;
+}
+
+#observation-description {
+  display: flex;
+  width: 500px;
+}
+
+#observation-date {
+  width: 170px;
+}
+
+#date {
+  position: relative;
+}
+
+#date i {
+  position: absolute;
+  right: 600px;
+  top: 40px;
+}
+
+#observation-latitude {
+  width: 170px;
+}
+
+#observation-longitude {
+  width: 170px;
+}
+
+#observation-photographer {
+  width: 500px;
+}
+
+#photographer-email {
+  width: 500px;
+}
+
+.error {
+  color: red;
+}
