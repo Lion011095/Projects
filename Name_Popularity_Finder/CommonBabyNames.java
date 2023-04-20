@@ -1,14 +1,3 @@
-/**********************************************
- Workshop #6
- Course: JAC444 - Fall Semester
- Last Name: Yakubov
- First Name: Lion
- ID: 129517207
- Section: NCC
- This assignment represents my own work in accordance with Seneca Academic Policy.
- Signature
- Date:10-11-2022
- **********************************************/
 package com.example.demo;
 
 import javafx.application.Application;
