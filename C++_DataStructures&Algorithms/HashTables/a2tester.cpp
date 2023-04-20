@@ -1,19 +1,3 @@
-/**************************************************************************/
-/*                                                                        */
-/*   A2 tester file                                                       */
-/*                                                                        */
-/*   To compile: g++ a2tester.cpp timer.cpp -std=c++0x                    */
-/*   You will also need:                                                  */
-/*      * timer.h/timer.cpp                                               */
-/*      * dictionary.txt                                                  */
-/*                                                                        */
-/*                                                                        */
-/*   Reminder that if you are working in VS, you need to change the       */
-/*   #define PLATFORM line in timer.h                                     */
-/*                                                                        */
-/*                                                                        */
-/**************************************************************************/
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include "table.h"
