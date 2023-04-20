@@ -2,6 +2,8 @@
 #define POSIX 1
 #define WINDOWS 2
 
+#define PLATFORM WINDOWS
+
 class Timer
 {
 #if PLATFORM == WINDOWS
